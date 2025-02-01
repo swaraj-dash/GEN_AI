@@ -18,4 +18,5 @@ The Chat with PDF app enables users to upload PDFs and interact with their conte
 
 Commands to run the programs, 
 >pip install -r requirements.txt
+
 >streamlit run filename.py
